@@ -27,9 +27,12 @@ table.stripped tr:nth-child(even) {
     color: @text-light;
 }
 .bigtable .plugin-category td.pane {
-    font-size: 3em;
     text-align: center;
     text-transform: uppercase;
     background-color: #4183C4;
     color: @text-light;
+}
+
+table.stripped tr:hover, table.stripped-even tr:hover, table.stripped-odd tr:hover {
+    background-color: rgba(255, 255, 255, 0.1) !important;
 }

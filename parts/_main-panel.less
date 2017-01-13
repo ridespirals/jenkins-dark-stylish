@@ -2,6 +2,8 @@
 
 #main-panel {
     background: @background-dark;
+    padding-bottom: 25px;
+
     .pane-frame {
         border: solid 1px @background-333;
         border-radius: 0;
@@ -42,10 +44,13 @@
         background: @background-light;
     }
     table.stripped-odd tr:nth-child(odd) {
-        background: @background-light;
+        background: @background-darker;
     }
     div.pane-header {}
     div.pane-header .collapse {}
     th.pane {}
-
+    .container > .row > .col-md-20 {
+        background-color: @background-darkerer;
+        margin-top: -15px;
+    }
 }
