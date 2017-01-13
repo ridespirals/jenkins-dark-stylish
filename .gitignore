@@ -2,12 +2,8 @@
 .idea/
 node_modules/
 .vagrant/
-dist/
 hpi/
 target/
 work/
 *.iml
 webapp/
-
-jenkins-dark.css
-jenkins-dark.min.css
