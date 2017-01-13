@@ -1261,8 +1261,7 @@ td > img {
   margin-top: 5px;
   padding: 10px;
   padding-bottom: 10px;
-  font-size: 3em;
-  background-color: #3183c4;
+  background-color: rgba(49, 131, 196, 0.2);
   color: #c0c0c0;
   text-transform: uppercase;
   border: none !important;
@@ -1427,7 +1426,6 @@ table.stripped tr:nth-child(even) {
   color: #c0c0c0;
 }
 .bigtable .plugin-category td.pane {
-  font-size: 3em;
   text-align: center;
   text-transform: uppercase;
   background-color: #4183C4;
