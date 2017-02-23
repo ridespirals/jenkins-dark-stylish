@@ -415,7 +415,7 @@ div.CodeMirror-selected {
   color: #164;
 }
 .cm-s-default span.cm-def {
-  color: #00f;
+  color: #8CD0D3 !important;
 }
 .cm-s-default span.cm-variable {
   color: #c0c0c0 !important;
