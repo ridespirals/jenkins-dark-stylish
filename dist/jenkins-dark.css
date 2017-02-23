@@ -462,7 +462,7 @@ div.CodeMirror-selected {
   color: #170;
 }
 .cm-s-default span.cm-attribute {
-  color: #8CD0D3;
+  color: #8CD0D3 !important;
 }
 .cm-s-default span.cm-header {
   color: #3183c4 !important;
@@ -474,7 +474,7 @@ div.CodeMirror-selected {
   color: #999;
 }
 .cm-s-default span.cm-link {
-  color: #8CD0D3;
+  color: #8CD0D3 !important;
 }
 span.cm-negative {
   color: #d44;
