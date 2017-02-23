@@ -98,3 +98,7 @@ This will generate the following:
 
 [stylish-chrome]: https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en
 [stylish-firefox]: https://addons.mozilla.org/en-US/firefox/addon/stylish/
+
+## Original Url (jvarga)
+
+https://liath.github.io/jenkins-dark-stylish/dist/jenkins-dark.min.css
