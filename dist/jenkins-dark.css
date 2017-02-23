@@ -412,7 +412,7 @@ div.CodeMirror-selected {
   font-weight: bolder !important;
 }
 .cm-s-default span.cm-number {
-  color: #164;
+  color: #61bf86 !important;
 }
 .cm-s-default span.cm-def {
   color: #8CD0D3 !important;
@@ -453,13 +453,13 @@ div.CodeMirror-selected {
   color: #c0c0c0 !important;
 }
 .cm-s-default span.cm-builtin {
-  color: #30a;
+  color: #8CD0D3 !important;
 }
 .cm-s-default span.cm-bracket {
   color: #997;
 }
 .cm-s-default span.cm-tag {
-  color: #170;
+  color: #61bf86 !important;
 }
 .cm-s-default span.cm-attribute {
   color: #8CD0D3 !important;
