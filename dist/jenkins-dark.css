@@ -232,8 +232,8 @@ p.info {
   color: #c0c0c0 !important;
   padding-left: 56px;
   background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAYdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjAuOWwzfk4AAAQtSURBVGhD7ZlLSBVhGIa1LMqkC1GLLosociFRYKkFQrQQoVbtWrSpVbWIwIIWBha50ywMVxFChLtQUyJaJIFQiwiiVKJWYaALtbLISnu+mbdBnXOO/8ycc2pxHniZme/y/n+nufwzFhUo8B8wOzu7EdWj66gPjaAp9Ms0Nzc3yXYY9aImVEdsg9r/DUxgBRM5hLrQNJol5oTVwhfUiaoIrZBtfmDQajSI7NdNhDyest0r+9zBQOsZqB399kbPInjOoFZ212m47ILxPgb44I2WQxjjDSrXsNkBwyNoSmPkHMYaRzUaPhma/Bd55w0bE9VqGvHAx06bvP3yi2HsMbRL04kG/XbBxjrn6fuIBtAjDu0O8w7FuvDpe8WmVNNyh8Z238IN6r+jWyjlBUjJBnKn0Wu/wx16WmTjBg12n3f+xai1yderPSOUr6L2RkT/32i/LDJDvT1hB/1WN6g/r3YnaCmm57bf7Qb1/WyKZZEeCm154PyEpfYTWqt2D8IlxE6gO+gmqlYqgNhm9Nl3WRpqf6IKtaeHoi71OEH9A7UGELuIgrURu7ZWOqh0ALH7KnGC+rtqTQ0FtqqcVr0T1F9VewCxMaUDiPUrHUCsQWknqB9lU6b2MBTYkth5VWlQfkbtHoRW+ZmFUDeskgBi55R2gnq7mKvUHobkddU6Q4+tXR7P0xOlFkD8joYJINamtDP0NKo9DMk+1WUVfEfRFg3jwfFqi6vEGXp6ZRGG5Ijqsgaez1Do4UbsAop0uhq0hE7FAJJZW/fgZev7a+yWyN6D4+XET6GfXmF0JmUVBtPEb1gGPsZZdhc8eDheSbwNxR7HemUXJonxfPB5yGaZbD2IlaNIT/hUZPwHkJ/0y5LBIMdl6cHxJhT5gk0FPhOyDUNyWHWJwGerLD04PqlUYvAakm0Ykr2qiw0etspcfPpc8bPJwatHtmFINqkuNngY99DdeXqvdGLwuqzphiFZhyLfm/MFU7P/3UpNNwxJe2tK/AKPxw/0Er1AXxVODF72qrpG000NBZ2qj4t9B61hu8zE/k6UlVMInw5NMz0UVaEkD5pLsgogdkzp2OBhLzS7ZZkeau2VcsBvi8VhWQXgtwMlurZo72az9CulQaF9D5rxOiNCX4NsAogdVToWNhe0R3Zu0NCq/qjYNXBANuazHb1TLhb0N8vOHfrW0fjWt4gGfXa+Pkf2ceubwrEwHzbRP2wZNNsCbNy3yj+MbbfNbZpOPDCoQf/q425wKiYCo1qUt/8JxrJfPjuT/wuGu5B9aM0pjGHXTrLTJh34l2LegmJ9ac4EnnarbGY33gUbBQY6gPpR3PfaAPNA3SjafT4pjG0faCuQLZfts0nUr812nneg3YTcnrC5ggmUMRFbQzUi+2O2vdnZA837QzeaQEOoB10mV8k286qyQIF8UFT0BzkOtBYvfjBKAAAAAElFTkSuQmCC') !important;
-  background-repeat: no-repeat !important;
-  background-position: 4px center !important;
+  background-repeat: no-repeat;
+  background-position: 4px center;
 }
 .help .from-plugin {
   color: #fff;
@@ -462,7 +462,7 @@ div.CodeMirror-selected {
   color: #170;
 }
 .cm-s-default span.cm-attribute {
-  color: #00c;
+  color: #8CD0D3;
 }
 .cm-s-default span.cm-header {
   color: #3183c4 !important;
@@ -474,7 +474,7 @@ div.CodeMirror-selected {
   color: #999;
 }
 .cm-s-default span.cm-link {
-  color: #00c;
+  color: #8CD0D3;
 }
 span.cm-negative {
   color: #d44;
